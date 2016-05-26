@@ -1,7 +1,7 @@
 # Личный проект «Мишка» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
 * Студент: [Александр Мельник](https://up.htmlacademy.ru/adaptive/7/user/166912).
-* Наставник: `Неизвестно`.
+* Наставник: [Евгений Болтян](https://up.htmlacademy.ru/adaptive/7/user/83202).
 
 ---
 
